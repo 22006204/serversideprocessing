@@ -131,7 +131,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![sso2](https://user-images.githubusercontent.com/118787261/212548354-d5fd32ca-24a5-4d6e-b6da-f2c0035be03a.png)
+
+![sso2](https://user-images.githubusercontent.com/118787261/212550941-7bda4703-b6a8-48ee-986f-a17b3d14da29.png)
 
 
 
