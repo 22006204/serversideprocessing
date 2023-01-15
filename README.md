@@ -131,7 +131,10 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![output](./sathish/static/images/sso2.png)
+![sso2](https://user-images.githubusercontent.com/118787261/212548354-d5fd32ca-24a5-4d6e-b6da-f2c0035be03a.png)
+
+
+
 
 
 ## Result:
